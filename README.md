@@ -1,1 +1,1 @@
-Proyecto Spring boot con JWT para usuarios
+Proyecto Spring boot con JWT para registro y autentificación de usuarios
